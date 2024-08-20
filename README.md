@@ -56,5 +56,8 @@ Individual News Sources and RSS Feeds or Site Maps:
 - The Wall Street Journal:
     - https://www.wsj.com/news/rss-news-and-feeds
 - Time:
-    - https://time.com/feed/  
- 
+    - https://time.com/feed/
+- DW:
+    - https://rss.dw.com/xml/rss-en-all
+- The Economist:
+    - https://www.economist.com/rss 
