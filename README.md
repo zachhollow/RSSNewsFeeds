@@ -33,6 +33,10 @@ Individual News Sources and RSS Feeds or Site Maps:
     - http://feeds.bbci.co.uk/news/scotland/rss.xml
     - http://feeds.bbci.co.uk/news/wales/rss.xml
 - Reuters:
-    - https://www.reutersagency.com/en/reutersbest/reuters-best-rss-feeds/ 
+    - https://www.reutersagency.com/en/reutersbest/reuters-best-rss-feeds/
+- Sky News:
+    - https://news.sky.com/info/rss
+- AP News:
+    - https://apnews.com/news-sitemap-content.xml 
  
  
