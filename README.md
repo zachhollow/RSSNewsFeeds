@@ -1,5 +1,5 @@
-# RSS News Feeds
-A running list of currently accessible URLs to XML pages hosted by news providers.
+# RSS and Atom News Feeds
+A running list of currently accessible URLs to RSS and Atom feeds hosted by news providers.
 ----
 Individual News Sources and RSS Feeds or Site Maps:
 - Haaretz:
