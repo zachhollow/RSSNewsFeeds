@@ -41,6 +41,8 @@ Individual News Sources and RSS Feeds or Site Maps:
 - CBS News:
     - https://www.cbsnews.com/rss/
 - The Guardian:
-    - https://www.theguardian.com/help/feeds  
+    - https://www.theguardian.com/help/feeds
+- The New York Times:
+    - https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html?mcubz=0 
  
  
