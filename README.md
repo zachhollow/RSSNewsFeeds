@@ -10,4 +10,29 @@ Individual News Sources and RSS Feeds or Site Maps:
 - Politico:
     - https://rss.politico.com/politics-news.xml
     - https://rss.politico.com/defense.xml
-    - https://rss.politico.com/energy.xml 
+    - https://rss.politico.com/energy.xml
+- BBC:
+    - https://feeds.bbci.co.uk/news/rss.xml
+    - http://feeds.bbci.co.uk/news/world/rss.xml
+    - http://feeds.bbci.co.uk/news/uk/rss.xml
+    - http://feeds.bbci.co.uk/news/business/rss.xml
+    - http://feeds.bbci.co.uk/news/politics/rss.xml
+    - http://feeds.bbci.co.uk/news/health/rss.xml
+    - http://feeds.bbci.co.uk/news/education/rss.xml
+    - http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    - http://feeds.bbci.co.uk/news/technology/rss.xml
+    - http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+    - http://feeds.bbci.co.uk/news/world/africa/rss.xml
+    - http://feeds.bbci.co.uk/news/world/asia/rss.xml
+    - http://feeds.bbci.co.uk/news/world/europe/rss.xml
+    - http://feeds.bbci.co.uk/news/world/latin_america/rss.xml
+    - http://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+    - http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+    - http://feeds.bbci.co.uk/news/england/rss.xml
+    - http://feeds.bbci.co.uk/news/northern_ireland/rss.xml
+    - http://feeds.bbci.co.uk/news/scotland/rss.xml
+    - http://feeds.bbci.co.uk/news/wales/rss.xml
+- Reuters:
+    - https://www.reutersagency.com/en/reutersbest/reuters-best-rss-feeds/ 
+ 
+ 
