@@ -1,3 +1,4 @@
+
 # RSS and Atom News Feeds
 A running list of currently accessible URLs to RSS and Atom feeds hosted by news providers.
 ----
@@ -43,6 +44,10 @@ Individual News Sources and RSS Feeds or Site Maps:
 - The Guardian:
     - https://www.theguardian.com/help/feeds
 - The New York Times:
-    - https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html?mcubz=0 
+    - https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html?mcubz=0
+- The Hill:
+    - https://thehill.com/news/feed/
+- CNN:
+    - http://rss.cnn.com/rss/cnn_topstories.rss 
  
  
