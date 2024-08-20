@@ -37,6 +37,10 @@ Individual News Sources and RSS Feeds or Site Maps:
 - Sky News:
     - https://news.sky.com/info/rss
 - AP News:
-    - https://apnews.com/news-sitemap-content.xml 
+    - https://apnews.com/news-sitemap-content.xml
+- CBS News:
+    - https://www.cbsnews.com/rss/
+- The Guardian:
+    - https://www.theguardian.com/help/feeds  
  
  
