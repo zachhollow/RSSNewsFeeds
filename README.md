@@ -49,5 +49,12 @@ Individual News Sources and RSS Feeds or Site Maps:
     - https://thehill.com/news/feed/
 - CNN:
     - http://rss.cnn.com/rss/cnn_topstories.rss 
- 
+- NBC:
+    - https://feeds.nbcnews.com/nbcnews/public/news
+- Washington Post:
+    - https://feeds.washingtonpost.com/rss/world
+- The Wall Street Journal:
+    - https://www.wsj.com/news/rss-news-and-feeds
+- Time:
+    - https://time.com/feed/  
  
