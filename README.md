@@ -2,7 +2,7 @@
 # RSS and Atom News Feeds
 A running list of currently accessible URLs to RSS and Atom feeds hosted by news providers.
 ----
-Individual News Sources and RSS Feeds or Site Maps:
+RSS Feeds, Atom Feeds, or Site Maps:
 - Haaretz:
     - https://www.haaretz.com/news-sitemap-content.xml
 - Al Jazeera:
