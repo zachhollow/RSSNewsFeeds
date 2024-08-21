@@ -1,6 +1,6 @@
 
 # RSS and Atom News Feeds
-A running list of currently accessible URLs to RSS and Atom feeds hosted by news providers.
+A running list of currently accessible XML pages hosted by news providers.
 ----
 RSS Feeds, Atom Feeds, or Site Maps:
 - Haaretz:
