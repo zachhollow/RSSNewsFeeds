@@ -60,4 +60,8 @@ Individual News Sources and RSS Feeds or Site Maps:
 - DW:
     - https://rss.dw.com/xml/rss-en-all
 - The Economist:
-    - https://www.economist.com/rss 
+    - https://www.economist.com/rss
+- Radio Free Europe / Radio Liberty:
+    - https://www.rferl.org/rssfeeds
+    - https://www.rferl.org/api/zbqimetkiy
+    - https://www.rferl.org/api/zybqpreqtopi
