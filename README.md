@@ -41,8 +41,6 @@ RSS Feeds, Atom Feeds, or Site Maps:
     - https://www.theguardian.com/help/feeds
 - The New York Times:
     - https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html?mcubz=0
-- The Hill:
-    - https://thehill.com/news/feed/
 - CNN:
     - http://rss.cnn.com/rss/cnn_topstories.rss 
 - NBC:
