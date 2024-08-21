@@ -65,3 +65,5 @@ RSS Feeds, Atom Feeds, or Site Maps:
     - https://www.rferl.org/rssfeeds
     - https://www.rferl.org/api/zbqimetkiy
     - https://www.rferl.org/api/zybqpreqtopi
+- UN:
+    - https://news.un.org/feed/subscribe/en/news/all/rss.xml 
