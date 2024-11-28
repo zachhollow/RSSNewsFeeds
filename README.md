@@ -37,6 +37,8 @@ RSS Feeds, Atom Feeds, or Site Maps:
     - https://apnews.com/news-sitemap-content.xml
 - CBS News:
     - https://www.cbsnews.com/rss/
+- Haaretz:
+    - https://www.haaretz.com/sitemap.xml 
 - The Guardian:
     - https://www.theguardian.com/help/feeds
 - The New York Times:
